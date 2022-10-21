@@ -1,4 +1,4 @@
-# Image Slider  [Live](https://gopoo23.github.io/sorting-visualizer/)
+# Image Slider  [Live](https://gopoo23.github.io/slider/)
 
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
@@ -6,7 +6,7 @@
 Image Slider is a web page created with the help of HTML, CSS.
 
 ## Purpose
-I made this Image Slider web application to improve my skills more in
+I made this Image Slider web page to improve my skills more in
 HTML, CSS. And to help the beginners in programming to gain more knowledge and understanding on CSS.
 
 <h3 align =>Contacts</h3>
